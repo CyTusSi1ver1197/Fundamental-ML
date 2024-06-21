@@ -7,7 +7,7 @@ This repository contains the code and data for a mini-project on facial expressi
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1| Hiếu |  |
+    |1| Bùi Trung Hiếu | 21110082 |
     |2| Minh |  |
     |3| Trần Thành Nam | 21110345 |
     |4| Tuấn |  |
