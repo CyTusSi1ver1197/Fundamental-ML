@@ -21,6 +21,9 @@ The repository is organized into the following directories:
 - **/data**: This directory contains the facial expression dataset. You'll need to download the dataset and place it here before running the notebooks. (Download link provided below)
 - **/notebooks**: This directory contains the Jupyter notebook ```EDA.ipynb```. This notebook guides you through exploratory data analysis (EDA) and classification tasks.
 
+> [!NOTE]
+> You can go to the url https://nbviewer.org/github/CyTusSi1ver1197/Fundamental-ML/blob/main/notebooks/EDA.ipynb for easily view of this file.
+
 ## ⚙️ Usage
 
 This project is designed to be completed in the following steps:
